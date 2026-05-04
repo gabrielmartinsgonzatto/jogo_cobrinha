@@ -201,7 +201,7 @@ body{
     color:var(--verde);
 }
 
-.controles-smarthphone{
+.controles-smartphone{
     margin-top: 16px;
     display: flex;
     flex-direction: column;
@@ -211,7 +211,9 @@ body{
 
 .linha-controle{
     display: flex;
+    justify-content: center;
     gap: 4px;
+    width: 160px;
 }
 
 .btn-direcao{
